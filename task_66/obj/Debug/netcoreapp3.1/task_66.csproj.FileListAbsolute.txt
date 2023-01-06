@@ -1,0 +1,14 @@
+E:\Projects\gb.ru\csharp_itog\task_66\bin\Debug\netcoreapp3.1\task_66.exe
+E:\Projects\gb.ru\csharp_itog\task_66\bin\Debug\netcoreapp3.1\task_66.deps.json
+E:\Projects\gb.ru\csharp_itog\task_66\bin\Debug\netcoreapp3.1\task_66.runtimeconfig.json
+E:\Projects\gb.ru\csharp_itog\task_66\bin\Debug\netcoreapp3.1\task_66.runtimeconfig.dev.json
+E:\Projects\gb.ru\csharp_itog\task_66\bin\Debug\netcoreapp3.1\task_66.dll
+E:\Projects\gb.ru\csharp_itog\task_66\bin\Debug\netcoreapp3.1\task_66.pdb
+E:\Projects\gb.ru\csharp_itog\task_66\obj\Debug\netcoreapp3.1\task_66.csproj.AssemblyReference.cache
+E:\Projects\gb.ru\csharp_itog\task_66\obj\Debug\netcoreapp3.1\task_66.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\gb.ru\csharp_itog\task_66\obj\Debug\netcoreapp3.1\task_66.AssemblyInfoInputs.cache
+E:\Projects\gb.ru\csharp_itog\task_66\obj\Debug\netcoreapp3.1\task_66.AssemblyInfo.cs
+E:\Projects\gb.ru\csharp_itog\task_66\obj\Debug\netcoreapp3.1\task_66.csproj.CoreCompileInputs.cache
+E:\Projects\gb.ru\csharp_itog\task_66\obj\Debug\netcoreapp3.1\task_66.dll
+E:\Projects\gb.ru\csharp_itog\task_66\obj\Debug\netcoreapp3.1\task_66.pdb
+E:\Projects\gb.ru\csharp_itog\task_66\obj\Debug\netcoreapp3.1\task_66.genruntimeconfig.cache
